@@ -7,6 +7,8 @@ Upstream OTSurv implementation: https://github.com/Y-Research-SBU/OTSurv
 
 Reference implementation of **SAPA-SPE**, a spatially enriched optimal-transport MIL model for whole-slide-image survival prediction.
 
+Repository: https://github.com/Mashiro22/SAPA-SPE
+
 This public-release candidate contains the core model and execution path only:
 
 - OTSurv optimal-transport aggregation;
@@ -164,8 +166,8 @@ The tests enforce the unified patch-count interface and run a small SAPA-SPE for
 
 This code builds on OTSurv (MICCAI 2025; arXiv:2506.20741). Please cite the
 upstream work as well as SAPA-SPE when using this implementation. Add the final
-SAPA-SPE bibliographic entry and public repository URL when they become
-available. Pretrained checkpoints may be released separately only when their
+SAPA-SPE bibliographic entry when it becomes available. Pretrained checkpoints
+may be released separately only when their
 underlying feature and data licenses permit redistribution.
 
 Do not publish private paths, cohort files, credentials, or restricted
