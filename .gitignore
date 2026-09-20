@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+results/
+logs/
+data/
+checkpoints/
+*.pt
+*.pth
+*.h5
+
